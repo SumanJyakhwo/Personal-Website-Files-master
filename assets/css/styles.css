@@ -54,6 +54,7 @@ h1, h2, p {
   margin: 0;
 }
 
+
 ul {
   margin: 0;
   padding: 0;
@@ -219,6 +220,14 @@ img {
 .home__blob-img {
   width: 360px;
 }
+
+.stalemate-regular {
+  font-family: "Stalemate", cursive;
+  font-weight: 400;
+  font-style: bold;
+  font-size: 2em;
+}
+
 
 /*BUTTONS*/
 .button {
