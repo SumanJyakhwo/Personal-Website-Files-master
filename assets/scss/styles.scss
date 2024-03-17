@@ -328,7 +328,7 @@ img{
         overflow: hidden;
         
         & img{
-            transition: 1s;
+            transition: .7s;
 
             &:hover{
                 transform: scale(1.1);
