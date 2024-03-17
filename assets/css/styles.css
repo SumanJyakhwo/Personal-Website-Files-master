@@ -204,9 +204,18 @@ img {
   margin-bottom: var(--mb-2);
   font-size: 1.5rem;
   color: var(--second-color);
+  border-radius: 50%;
+  display: inline-block;
+  padding: 5px;
+
+    background-color: rgb(98, 132, 246);
+    margin: 0 5px; /* Adjust as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .home__social-icon:hover {
-  color: var(--first-color);
+  color: whitesmoke;
 }
 .home__img {
   position: absolute;
